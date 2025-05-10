@@ -9,6 +9,8 @@
     "build": "vite build"
   },
   "dependencies": {
+    "primeflex": "^4.0.0",
+    "primereact": "^10.9.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
